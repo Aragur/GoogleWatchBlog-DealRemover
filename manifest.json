@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "GoogleWatchBlog DealRemover",
+  "description": "Diese Erweiterung entfernt Deals vom GoogleWatchBlog",
+  "version": "1.0",
+  "options_page": "options.html",
+  "permissions":
+  [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.googlewatchblog.de/*"],
+      "js": ["jquery-3.2.1.min.js", "script.js"]
+    }
+  ]
+}
