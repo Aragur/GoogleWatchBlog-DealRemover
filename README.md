@@ -1,5 +1,5 @@
 # GoogleWatchBlog-DealRemover
-Diese Chrome-Erweiterung entfernt Deals vom GoogleWatchBlog
+Chrome-Erweiterung zum entfernen von Google Play Deals vom GoogleWatchBlog
 
 ## Instalation ##
 * Unter [Releases](https://github.com/AragurDEV/GoogleWatchBlog-DealRemover/releases) "GoogleWatchBlog-DealRemover.crx" herunterladen
@@ -7,7 +7,7 @@ Diese Chrome-Erweiterung entfernt Deals vom GoogleWatchBlog
 * Die heruntergeladene Datei ("GoogleWatchBlog-DealRemover.crx") via Drag and Drop in das Einstellungsfenster ziehen.
 * Auf Erweiterung hinzüfgen drücken.
 * Fertig!
-* Nun kann der [GoogleWatchBlog](https://www.googlewatchblog.de/) besucht werden.
+* Nun kann der [GoogleWatchBlog](https://www.googlewatchblog.de/) besucht werden und ohne Play Deals betrachtet werden.
 
 ## Konfiguration ##
 * Rechtsklick neben der Adressleiste auf das "G" Symbol - Labeltext lautet "GoogleWatchBlog DealRemover"
